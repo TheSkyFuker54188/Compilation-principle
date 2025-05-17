@@ -1,0 +1,2 @@
+由于实验需要在linux环境下进行，而此项目的系列仓库在本地之间建在了windows环境。故此处只留下实验的介绍文档，完整内容见下链接
+https://github.com/TheSkyFuker54188/Compiler-Lab6-yacc
